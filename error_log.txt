@@ -1,0 +1,6 @@
+2024-07-19 23:55:51 - Polling error: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7416611476:AAGVGjmTbbEij9WFCahPQZ3cBQjTCc6_zg4/getMe (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000266900A8A40>: Failed to resolve 'api.telegram.org' ([Errno 11001] getaddrinfo failed)"))
+2024-07-20 00:06:08 - Bot polling error: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-07-20 00:12:58 - Polling error: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=25)
+2024-07-20 00:16:05 - Polling error: 'NoneType' object is not callable
+2024-07-20 00:16:53 - Polling error: 'NoneType' object is not callable
+2024-07-20 00:19:48 - Polling error: 'NoneType' object is not callable
