@@ -4,7 +4,7 @@ import time
 import sqlite3
 from telebot import types
 
-API_TOKEN = '7416611476:AAHU_JEYcdQtEw6HeVvbt7yo-sAAluCq2lQ'
+API_TOKEN = '7284212779:AAGdMJr-H2FnkXEEev7Sj7WMn9OTLAHIUrI'
 ADMIN = '7334155826'
 orqaga_qaytish ="⬅️  Orqaga qaytish"
 
